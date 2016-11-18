@@ -1,0 +1,20 @@
+{
+  "name": "gulp-bem-preset-browserjs",
+  "version": "0.0.1",
+  "description": "Preset for build client js with gulp-bem",
+  "main": "lib/index.js",
+  "author": "Sergey Belozyorcev",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "gulpjs/gulp#4.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-if": "^2.0.2",
+    "gulp-include": "^2.3.1",
+    "gulp-uglify": "^2.0.0",
+    "gulp-wrap": "^0.13.0",
+    "merge2": "^1.0.2",
+    "through2-filter": "^2.0.0"
+  }
+}
